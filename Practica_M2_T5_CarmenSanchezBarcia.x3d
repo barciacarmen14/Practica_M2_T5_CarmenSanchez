@@ -19,4 +19,7 @@
    </IndexedFaceSet>
   </Shape>
  </Scene>
+<Viewpoint position="-0.02607 -13.05203 -6.05433" orientation="0.99918 0.03266 -0.02381 1.53576" 
+	zNear="5.23679" zFar="19.20338" centerOfRotation="-0.13723 -1.57636 -6.46291" fieldOfView="0.78540" description="defaultX3DViewpointNode"></Viewpoint>
+ </Scene>
 </X3D>
